@@ -1,0 +1,14 @@
+D:\Homeworks\C#\Calculator\Calculator\bin\Release\net10.0\Calculator.exe
+D:\Homeworks\C#\Calculator\Calculator\bin\Release\net10.0\Calculator.deps.json
+D:\Homeworks\C#\Calculator\Calculator\bin\Release\net10.0\Calculator.runtimeconfig.json
+D:\Homeworks\C#\Calculator\Calculator\bin\Release\net10.0\Calculator.dll
+D:\Homeworks\C#\Calculator\Calculator\bin\Release\net10.0\Calculator.pdb
+D:\Homeworks\C#\Calculator\Calculator\obj\Release\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homeworks\C#\Calculator\Calculator\obj\Release\net10.0\Calculator.AssemblyInfoInputs.cache
+D:\Homeworks\C#\Calculator\Calculator\obj\Release\net10.0\Calculator.AssemblyInfo.cs
+D:\Homeworks\C#\Calculator\Calculator\obj\Release\net10.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Homeworks\C#\Calculator\Calculator\obj\Release\net10.0\Calculator.dll
+D:\Homeworks\C#\Calculator\Calculator\obj\Release\net10.0\refint\Calculator.dll
+D:\Homeworks\C#\Calculator\Calculator\obj\Release\net10.0\Calculator.pdb
+D:\Homeworks\C#\Calculator\Calculator\obj\Release\net10.0\Calculator.genruntimeconfig.cache
+D:\Homeworks\C#\Calculator\Calculator\obj\Release\net10.0\ref\Calculator.dll
