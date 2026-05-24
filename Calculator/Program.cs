@@ -8,6 +8,12 @@
         break;
     }
 
+    if (string.IsNullOrWhiteSpace(input))
+    {
+        Console.WriteLine("Invalid input");
+        continue;
+    }
+
     string[] numbers = input.Split(' ');
 
     if (numbers.Length != 2 || !double.TryParse(numbers[0], out double num1) || !double.TryParse(numbers[1], out double num2))
